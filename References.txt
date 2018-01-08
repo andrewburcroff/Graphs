@@ -1,0 +1,14 @@
+﻿Cites Used Graphs Assignment
+
+1) I got a lot of help from both Justen Pacsai and Alan Alvarez-Mares
+2) http://www.cs.cmu.edu/afs/cs/academic/class/15210-s12/www/lectures/lecture07.pdf
+3) http://stackoverflow.com/questions/578084/how-to-implement-undirected-graph-in-ruby-on-rails
+4) http://stackoverflow.com/questions/12720771/adjacency-list-and-graph
+5) http://billleidy.com/blog/advent-of-code-and-graph-data-structure.html
+6) http://ruby.sketchup.com/Sketchup/Vertex.html
+7) https://ex0ns.me/2015/01/30/-ruby-graph-representation/
+8) https://www.sitepoint.com/graph-algorithms-ruby/
+9) http://www.informit.com/articles/article.aspx?p=26943&seqNum=6
+10) http://www.maxburstein.com/blog/introduction-to-graph-theory-finding-shortest-path/
+11) https://dzone.com/articles/ruby-graph-dijkstra
+
